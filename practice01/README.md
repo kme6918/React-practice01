@@ -1,5 +1,5 @@
 ## 연습연습
-한번 해보자ㅜㅜ
+한번 해보자ㅜㅜ 깃이 잘 연결되는가 한번 보자
 
 
 # Getting Started with Create React App
